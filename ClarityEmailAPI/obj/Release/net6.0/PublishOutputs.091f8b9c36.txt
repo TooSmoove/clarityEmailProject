@@ -1,0 +1,14 @@
+C:\Users\keith\Sandbox\ClarityEmailAPI\ClarityEmailAPI\obj\Release\net6.0\PubTmp\Out\ClarityEmailAPI.exe
+C:\Users\keith\Sandbox\ClarityEmailAPI\ClarityEmailAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\keith\Sandbox\ClarityEmailAPI\ClarityEmailAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\keith\Sandbox\ClarityEmailAPI\ClarityEmailAPI\obj\Release\net6.0\PubTmp\Out\ClarityEmailAPI.dll
+C:\Users\keith\Sandbox\ClarityEmailAPI\ClarityEmailAPI\obj\Release\net6.0\PubTmp\Out\ClarityEmailAPI.deps.json
+C:\Users\keith\Sandbox\ClarityEmailAPI\ClarityEmailAPI\obj\Release\net6.0\PubTmp\Out\ClarityEmailAPI.runtimeconfig.json
+C:\Users\keith\Sandbox\ClarityEmailAPI\ClarityEmailAPI\obj\Release\net6.0\PubTmp\Out\ClarityEmailAPI.pdb
+C:\Users\keith\Sandbox\ClarityEmailAPI\ClarityEmailAPI\obj\Release\net6.0\PubTmp\Out\AWSSDK.Core.dll
+C:\Users\keith\Sandbox\ClarityEmailAPI\ClarityEmailAPI\obj\Release\net6.0\PubTmp\Out\AWSSDK.SimpleEmail.dll
+C:\Users\keith\Sandbox\ClarityEmailAPI\ClarityEmailAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\keith\Sandbox\ClarityEmailAPI\ClarityEmailAPI\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\keith\Sandbox\ClarityEmailAPI\ClarityEmailAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\keith\Sandbox\ClarityEmailAPI\ClarityEmailAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\keith\Sandbox\ClarityEmailAPI\ClarityEmailAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
